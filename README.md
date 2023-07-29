@@ -1,6 +1,6 @@
 ### **Project Brief**
 
-![sprocket_central_logo](https://github.com/tinashdj/KPMG-Data-Analytics-Consulting-Virtual-Internship/assets/110084624/0ed153f7-90ed-497b-baac-8f6b2f8fe073)
+<img width="338" alt="Sprocket White Logo" src="https://github.com/tinashdj/KPMG-Data-Analytics-Consulting-Virtual-Internship/assets/110084624/536889cc-d812-4965-be70-6e675946b5e4">
 
 Sprocket Central is a company that specializes in bikes & cycling accessories. Their marketing team is looking to boost business by analysing their provided customer dataset using the existing 3 datasets to recommend which of these 1000 new customers should be targeted to drive the higher value for the company.
 
